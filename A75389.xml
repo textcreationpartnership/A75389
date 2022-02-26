@@ -1,0 +1,182 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Another great and blovdy fight in Ireland between the Princes forces and the Parliaments, at the strong and impregnable garrison of Droghedah; with the particulars thereof, the number killed and taken prisoners, and the re-taking of the town with all the ordnance, armes and ammunition. Also, a great victory obtained by the Lord Inchiquin, against the rebellious army in that nation, upon their refusing to fight for Charles the second, with the manner of the said fight, and his routing and dispiersing 5000 horse and foot, commanded by Gen. Oneal. Published according to order.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A75389</idno>
+            <idno type="STC">Wing A3264</idno>
+            <idno type="STC">Thomason E571_9</idno>
+            <idno type="STC">ESTC R206066</idno>
+            <idno type="EEBO-CITATION">99865254</idno>
+            <idno type="PROQUEST">99865254</idno>
+            <idno type="VID">165346</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A75389)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 165346)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 88:E571[9])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Another great and blovdy fight in Ireland between the Princes forces and the Parliaments, at the strong and impregnable garrison of Droghedah; with the particulars thereof, the number killed and taken prisoners, and the re-taking of the town with all the ordnance, armes and ammunition. Also, a great victory obtained by the Lord Inchiquin, against the rebellious army in that nation, upon their refusing to fight for Charles the second, with the manner of the said fight, and his routing and dispiersing 5000 horse and foot, commanded by Gen. Oneal. Published according to order.</title>
+               </titleStmt>
+               <extent>[2], 5 [i.e. 6] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for G.W.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Aug. 21. 1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Page 6 misnumbered 5.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  II, --  King of England, 1630-1685 --  Early works to 1800.</term>
+               <term>Ireland --  History --  1649-1660 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:165346:1" rendition="simple:additions"/>
+            <p>Another great and BLOVDY FIGHT IN IRELAND BETWEEN The Princes Forces and the Parliaments, at the ſtrong and impregnable Garriſon of <hi>Droghedah;</hi> with the particu<g ref="char:EOLhyphen"/>lars thereof, the number killed and taken priſo<g ref="char:EOLhyphen"/>ners, and the re-taking of the Town with all the Ordnance, Armes and Ammunition.</p>
+            <p>
+               <hi>ALSO,</hi> A great Victory obtained by the Lord <hi>Inchiquin,</hi> againſt the Rebellious Army in that <hi>Nation,</hi> upon their refu<g ref="char:EOLhyphen"/>ſing to fight for <hi>Charles</hi> the ſecond; with the manner of the ſaid Fight, and his routing and diſpierſing 5000 horſe and foot, commanded by Gen. <hi>ONEAL.</hi>
+            </p>
+            <p>
+               <hi>Publiſhed according to Order.</hi>
+            </p>
+            <p>
+               <hi>London,</hi> Printed for <hi>G. W. Aug.</hi> 21. 1649.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:165346:2"/>
+            <pb n="1" facs="tcp:165346:2"/>
+            <head>Another great and bloudy FIGHT IN IRELAND Between The Princes forces, and the Parliaments; with the particu<g ref="char:EOLhyphen"/>lars thereof, the number killed and taken priſoners; and a great Victory obtained by the Lord <hi>Inchiquin</hi> againſt Gen. <hi>Oneal.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>BY an Expreſſe yeſterday from the Lord Governor <hi>Cromwell,</hi> we hear, that he is got ſafely into the Har<g ref="char:EOLhyphen"/>bou<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> at <hi>Dublin,</hi> and hath landed two or three Regi<g ref="char:EOLhyphen"/>ments
+<pb n="2" facs="tcp:165346:3"/>of the foot, the horſe being alſo craning out of the ſhips as faſt as poſſible they can: its ſaid, that his Lordſhip (at his landing) were entertained with a great volley from the great Guns in the City. And a little before his preſence Col. <hi>Jones</hi> ſent forth a party of horſe and foot to take in <hi>Droghedah;</hi> who upon ſummoning thereof, the Lord <hi>Moor</hi> returned a very peremptory anſwer, and diſputed the place with great reſoluteneſſe and gallantry, inſomuch, that many many of them were ſlain upon the place; but at laſt, the con<g ref="char:EOLunhyphen"/>flict grew ſo hot and ſharp, that the enemy began to article and at laſt obtained conditions to march away with ſword and piſtoll, upon the ſurrender of the town with all the Ordnance, Arms and Ammunition. This action coſt us not very dear, our loſſe being eſteemed about 70, whereof 30 ſlain, the reſt wounded: of the enemies about 200.</p>
+            <p>We hear that the Lord <hi>Inchiquin</hi> hath randezvou'd in <hi>Muſter</hi> about 4000 horſe and foot, who ſending a Letter to Gen. <hi>Oneal,</hi> to know whether he would covenant for the declared King of Scotland, &amp;c. received anſwer, that he would not engage againſt the Parl. of <hi>England:</hi> whereupon he advanced with his horſe and foot, fell upon them in their quarters, diſſipated part of the foot, killed many, and took divers priſoners, forcing the reſt to the Bogs and Woods, in which conflict, they give out, that above 1000 fell un<g ref="char:EOLhyphen"/>der the power of their ſword.</p>
+            <p>During which action, Sir <hi>Charles Coot</hi> lay not idle in <hi>Lon<g ref="char:EOLhyphen"/>don-Derry,</hi> but opportunely fore-ſeeing his advantage, ſal<g ref="char:EOLhyphen"/>lyed out, and fell upon Sir <hi>Charles Stuarts</hi> quarters, killed many, took divers priſoners, and raiſed the ſiege, with the loſſe of 40 men.</p>
+            <p>The newes is confirmed from <hi>Dublin, Ormond</hi> hath paid dear of his bowzing, <hi>Taff, Preſton,</hi> and he being met toge<g ref="char:EOLhyphen"/>ther,
+<pb n="3" facs="tcp:165346:3"/>thought they could deſtroy the Parl<g ref="char:punc">▪</g> power, by drin<g ref="char:EOLhyphen"/>king healths to their deſtruction, when its in ſo many words a Bull, whereas Lieu. Gen. Jones came ſoberly upon them, and made them run ſeveral ways: It's ſaid, that in their haſt they fell upon Ballyſhanon, have taken it, and are rallyed, being about twelve thouſand within twelve miles of Dub<g ref="char:EOLhyphen"/>lin and fallen to their old way of diſputing paſſe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>: which when loſt, they run to the next: they increaſe by the coming of forces to them, and ſay, if they recover not their repu<g ref="char:EOLhyphen"/>tation before <hi>Michaelmas,</hi> they ſhal not keep <hi>Ireland</hi> from a totall reducement within a year.</p>
+            <closer>
+               <dateline>
+                  <hi>Bristol</hi> 
+                  <date>18. <hi>Aug.</hi> 1649.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="letter">
+            <p>By Letters from the <hi>Hague</hi> thus: ſince the late brow given to <hi>Ormond</hi> by Lieut. Gen. <hi>Jones,</hi> we hear that they are re<g ref="char:EOLhyphen"/>bodying about Kilkeny and Muſter, and that in the ſaid En<g ref="char:EOLhyphen"/>gagement thirteen thouſand of the Princes forces eſcaped, who are gathering together, and randezvouzing in ſeverall places; but the raiſing of the ſiege, and defeating that potent power is joyfully reſcented by many.</p>
+            <p>It is likewiſe reported, that the Princes retinue lately ſat in Councell, whoſe reſult was, That new propoſitions ſhould be ſent to the Parl. of Scotland, <hi>viz.</hi> 1 That his declared Majeſty would wive his aſſent, for the ſetling of Religion, according to the ſolemn League and Covenans.</p>
+            <p n="2">2 That he would wholly apply his Ear to the Councell and Advice of the Eſtates conveened, provided, that reſpect might be had to the tender Conſciences of thoſe who have adhered to or aſſiſted him.</p>
+            <p>But this will hardly be; for he muſt either become a perfect Covenanter, or elſe a deſpiſed Prince.</p>
+            <p>Many of the Royall party have cauſed proclamation to be made for <hi>Charles</hi> the II, for the raiſing of Volantiers, but few appears in that engagement,</p>
+            <closer>
+               <dateline>
+                  <hi>Hague</hi> 
+                  <date>
+                     <hi>9. Augusti,</hi> 1649.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="resolution">
+            <pb n="4" facs="tcp:165346:4"/>
+            <head>The Scots Reſolution touching their King.</head>
+            <p>FIrſt, that prevailing party of Sectaries of England, who have broken the Covenant, and deſpiſed the Oath of God, corrupted the truth, ſubverted the fundamentall Government, by King and Parliament, and taken away the life; look upon us with an evill eye, as upon thoſe who ſtand in the way of their monſtrous and new-ſingled devi<g ref="char:EOLhyphen"/>ces, in Religion and Government, and though there were no cauſe to fear any thing for that party, but the Gangrene and infection of thoſe many damnable and abominahle er<g ref="char:EOLhyphen"/>rors, which have taken hold on them, yet our vicinity unto and dayly to commerce with that nation, may juſtly make us afraid that the Lord may give up many in this land un<g ref="char:EOLhyphen"/>to a ſpirit of deluſion, to beleeve lyes, becauſe they have not received the love of truth.</p>
+            <p>Secondly, Neither is the Malignant party ſo far broken and brought low, as that they have abandoned all hopes of carrying on their former deſignes againſt the Covenant, and work of Reformation, beſides many of them in this Kingdom who are as Foxes tyde in chaines, keeping in evill nature, and waiting opportunity to break their cords, and again to prey upon the Lords people. That the ſtan<g ref="char:EOLhyphen"/>ding Armies in Ireland, under the command of the Marq. of Ormond, the Lord Inchiqueen, the Lord of Airds, and George Munroe, who forgetting the horrible cruelty that was exerciſed by the Iriſh and Engliſh Nations in that Land, have entred into a Peace and aſſociation with them, that they may the more eaſily carry on the old deſign of the Popiſh, Prelatical and Malignant party, and the Lord of Airds, and George Munroe, have by treachery and op<g ref="char:EOLhyphen"/>preſſion, brought the Province of Ulſter, and Garriſons therein, under their power and command, and have redac<g ref="char:EOLhyphen"/>ted our Country-men, and ſuch as adhere unto the Cove<g ref="char:EOLhyphen"/>nant
+<pb n="5" facs="tcp:165346:4"/>and cauſe of God in that Province unto many miſeries and ſtraits, and are like to baniſh the Miniſters of the Goſ<g ref="char:EOLhyphen"/>pell, and to overturn theſe fair beginnings of the worke of God, which were unto many a branch of hope, that the Lord meant to make Ireland a pleaſant Land.</p>
+            <p>Thirdly, But which is more grievous unto us then all theſe, our King notwithſtanding of the Lords hand, againſt his fathers oppoſition to the work of God, and bearing down all thoſe in the three Kingdomes, by which it is come to paſſe, that his Majeſty hath hitherto refuſed to grant the juſt and neceſſary deſires of this Kirk and Kingdom, which were tendred unto him from the Commiſſioners of both for ſecuring of Religion, the liberties of the Subject, his <hi>Mai.</hi> Government, and the peace of the Kingdom; and it is much to be feared that thoſe wicked Councellours may ſo far prevail upon him in his tender years, as to engage him in a War for ouerturning (if it be poſſible) of the Work of God, and bearing down all thoſe in the three Kingdoms that adhere thereto, which if he ſhall do, cannot but bring great wrath from the Lord upon himſelf and his Throne, and muſt be the cauſe of many new and great miſeries and ca<g ref="char:EOLhyphen"/>lamities to theſe Lands.</p>
+            <p>And albeit the Lands be involved in many difficulties and compaſsed about with great and imminent dangers; yet there is hope and ground of conſolation concerning this thing; the Lord is in the midſt of us, and we are called by his name, our ears hear the joyfull ſound of the Goſpell, add our eyes ſee our Teachers. We behold the arm of the Lord ſtretched out daily in working ſalvation for his peo<g ref="char:EOLhyphen"/>ple, and anſwering their deſires upon their enemies, by ter<g ref="char:EOLhyphen"/>rible things inrighte onſneſſe, although we be few in num<g ref="char:EOLhyphen"/>ber,
+<pb n="5" facs="tcp:165346:5"/>yet the Lord of Hoſts is with us, and in the power of his ſtrength we ſhall be able to prevaile; although our land be filled with ſin, yet we have not been forſaken of the Lord our God, but he hath always had compaſſion upon us, and delivered us in all our diſtreſſe; although ſome of underſtanding fal, it is bot to try, and to purge, and to make white even to the end, becauſe it is yet for a time appointed although many cleave to us by flatteries, yet there be a remnant who keep their integrity, and the Lord ſhall do good to thoſe that be good; but ſuch as turn aſide to croo<g ref="char:EOLhyphen"/>ked ways, ſhall be led forth with the workers of iniqui<g ref="char:EOLhyphen"/>ty.</p>
+            <p>The Lords people in England and Ireland, who adhere to the cauſe and covenant, may be perplexed, but ſhall not deſ<g ref="char:EOLhyphen"/>pair, they may be perſecuted but ſhall not be forſaken; they may be caſt down but ſhall not be deſtroyed; and although uniformity and the work of Reformation in theſe hands ſeem not only to be retarded, but almoſt pluekt up by the roots, and the foundation thereof razed; yet the ſeed which the Lord hath ſowen there, ſhall again take root down<g ref="char:EOLhyphen"/>ward, and bear fruit upward, the zeal of the Lord of Hoſts ſhall perform this.</p>
+            <closer>
+               <signed>A. KER.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
